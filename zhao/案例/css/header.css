@@ -14,8 +14,6 @@
 }
 
 
-
-
 .header-font {
 	color: white;
 	line-height: 30px;
@@ -39,13 +37,10 @@
 	
 }
 
-#header-control div:nth-child(1) {
-	height:18px; width: 18px;
-	background: url(../img/icon/control/返回.svg) no-repeat;
-	background-size: contain;
-	
+.a{
+	margin-bottom: 7px;
+	margin-left:2px ;
 }
-
 
 #msg {
 	width: 34%;
@@ -66,6 +61,11 @@
 	align-items: center;
 	padding-right: 8px;
 	
+}
+#ling{
+	
+	padding-left:250px; 
+    padding-bottom: 10px;
 }
 
 /* 加号  */
